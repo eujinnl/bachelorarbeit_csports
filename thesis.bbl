@@ -1,0 +1,48 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bick(2017)]{sba}
+Mirjam Bick.
+\newblock 7,1 \% weniger verkehrstote im jahr 2016, February 2017.
+\newblock URL \url{https://www.destatis.de/DE/PresseService/Presse/Pressemitteilungen/2017/02/PD17_065_46241.html}.
+\newblock Zugriff: 05.09.2017.
+
+\bibitem[Field()]{field}
+Andy Field.
+\newblock \emph{Discovering Statistics Using SPSS}.
+\newblock SAGE Publications Ltd, 3 edition.
+\newblock ISBN 978-84787-906-6.
+
+\bibitem[Gold et~al.(2013)Gold, Damböck, Lorenz, and Bengler]{gold}
+Christian Gold, Daniel Damböck, Lutz Lorenz, and Klaus Bengler.
+\newblock "take over!" how long does it take to get the driver back into the loop?
+\newblock In \emph{Proceedings of the Human Factors and Eergonomics Society 57th Annual Meeting}, pages 1938--1942, 2013.
+\newblock \doi{10.1177/1541931213571433}.
+\newblock URL \url{https://mediatum.ub.tum.de/doc/1308108/1308108.pdf}.
+
+\bibitem[Riener et~al.(2013)Riener, Ferscha, Bachmair, Hagm\"{u}ller, Lemme, Muttenthaler, P\"{u}hringer, Rogner, Tappe, and Weger]{riener}
+A.~Riener, A.~Ferscha, F.~Bachmair, P.~Hagm\"{u}ller, A.~Lemme, D.~Muttenthaler, D.~P\"{u}hringer, H.~Rogner, A.~Tappe, and F.~Weger.
+\newblock Standardization of the in-car gesture interaction space.
+\newblock In \emph{Proceedings of the 5th International Conference on Automotive User Interfaces and Interactive Vehicular Applications}, AutomotiveUI '13, pages 14--21, New York, NY, USA, 2013. ACM.
+\newblock ISBN 978-1-4503-2478-6.
+\newblock \doi{10.1145/2516540.2516544}.
+\newblock URL \url{http://doi.acm.org/10.1145/2516540.2516544}.
+
+\bibitem[Schlott(2016)]{schlott}
+Stefan Schlott.
+\newblock Automatisiert den fahrer überfordern.
+\newblock \emph{Im Fokus}, January 2016.
+\newblock URL \url{https://www.springerprofessional.de/automatisiertes-fahren/ergonomie---hmi/automatisiert-den-fahrer-ueberfordern/11104124?searchResult=1.automatisiert%20den%20fahrer%20%C3%BCberfordern&searchBackButton=true}.
+\newblock Zugriff: 15.01.2018.
+
+\bibitem[Wintersberger et~al.(2017)Wintersberger, Green, and Riener]{wintersberger}
+Philipp Wintersberger, Paul Green, and Andreas Riener.
+\newblock Am i driving or are you or are we both? a taxonomy for handover and handbach in automated driving.
+\newblock In \emph{Proceedings of the Ninth International Driving Symposium on Human Factors in Driver Assessment, Training and Vehicle Design}, Driving Assessment Conference. University of Iowa, June 2017.
+\newblock URL \url{http://drivingassessment.uiowa.edu/sites/default/files/DA2017/papers/51.pdf}.
+
+\end{thebibliography}

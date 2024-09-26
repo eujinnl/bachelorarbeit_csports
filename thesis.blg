@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: titlepage.aux
+A level-1 auxiliary file: affidavit.aux
+A level-1 auxiliary file: acknowledgments.aux
+A level-1 auxiliary file: abstractEN.aux
+A level-1 auxiliary file: confidentialityClause.aux
+A level-1 auxiliary file: nomenclature.aux
+A level-1 auxiliary file: glossary.aux
+A level-1 auxiliary file: mainpart.aux
+The style file: plainnat.bst
+Database file #1: literature.bib
+Warning--entry type for "sba" isn't style-file defined
+--line 55 of file literature.bib
+Warning--empty year in field
+Warning--empty year in field
+You've used 6 entries,
+            2773 wiz_defined-function locations,
+            645 strings with 6715 characters,
+and the built_in function-call counts, 3188 in all, are:
+= -- 290
+> -- 192
+< -- 5
++ -- 66
+- -- 60
+* -- 252
+:= -- 494
+add.period$ -- 30
+call.type$ -- 6
+change.case$ -- 38
+chr.to.int$ -- 6
+cite$ -- 14
+duplicate$ -- 144
+empty$ -- 242
+format.name$ -- 66
+if$ -- 676
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 6
+newline$ -- 48
+num.names$ -- 24
+pop$ -- 83
+preamble$ -- 1
+purify$ -- 32
+quote$ -- 0
+skip$ -- 111
+stack$ -- 0
+substring$ -- 76
+swap$ -- 29
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 61
+warning$ -- 2
+while$ -- 24
+width$ -- 0
+write$ -- 106
+(There were 3 warnings)
